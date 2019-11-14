@@ -1,0 +1,2 @@
+int calc_factorial(int n){int ans=1; int i; for(i=1;i<=n;i++){ ans=ans*i; } return(ans); }
+int a = b+2;
